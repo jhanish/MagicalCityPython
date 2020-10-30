@@ -10,3 +10,8 @@ message = "Somebody's Birthday"
 
 print(message)
 print(birth_month, birth_date, ",", birth_year)
+
+print(f"{birth_month} {birth_date}, {birth_year}")
+
+birthday_string = f"My birthday is on {birth_month} {birth_date}, {birth_year}, \n{birth_year} was a great year for me!"
+print(birthday_string)

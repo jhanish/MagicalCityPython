@@ -7,3 +7,6 @@ birth_month = 'January'
 # replace with your own message!
 message = "Somebody's Birthday"
 
+
+print(message)
+print(birth_month, birth_date, ",", birth_year)
